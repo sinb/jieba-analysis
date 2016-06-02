@@ -7,11 +7,11 @@
         <version>7</version>
     </parent>
     <groupId>com.huaban</groupId>
-    <artifactId>jieba-analysis</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <artifactId>jieba-analysis-multisegmenters</artifactId>
+    <version>0.3.1</version>
     <packaging>jar</packaging>
 
-    <name>结巴分词工具(jieba for java)</name>
+    <name>结巴分词工具修改版(jieba for java)</name>
     <url>http://maven.apache.org</url>
     <inceptionYear>2013</inceptionYear>
     <licenses>
@@ -23,9 +23,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:huaban/jieba-analysis.git</connection>
-        <developerConnection>scm:git:git@github.com:huaban/jieba-analysis.git</developerConnection>
-        <url>git@github.com:huaban/jieba-analysis.git</url>
+        <connection>scm:git:git@github.com:sinb/jieba-analysis.git</connection>
+        <developerConnection>scm:git:git@github.com:sinb/jieba-analysis.git</developerConnection>
+        <url>git@github.com:sinb/jieba-analysis.git</url>
     </scm>
 
     <properties>
